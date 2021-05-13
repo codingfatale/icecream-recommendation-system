@@ -15,6 +15,9 @@ to show similar ice cream flavors.
 Currently the project is working 
 on a building the model. 
 
+## Contributing
+Please read [CONTRIBUTING.md](https://github.com/kiwihero/icecream-recommendation-system/blob/main/CONTRIBUTING.md) for details on the process for pull requests.
+
 ## Sources
 Dataset used
 * [Ice Cream Dataset](https://www.kaggle.com/tysonpo/ice-cream-dataset)
